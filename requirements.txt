@@ -1,5 +1,4 @@
 absl-py==0.8.1
-amazonscraper==0.1.0
 apixu-client==0.0.1
 appnope==0.1.0
 APScheduler==3.3.1
