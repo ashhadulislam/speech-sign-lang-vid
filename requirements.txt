@@ -9,6 +9,8 @@ google-auth-oauthlib==0.4.1
 google-cloud-core==1.0.3
 google-cloud-speech==0.36.3
 google-cloud-translate==1.6.0
+google-cloud-storage==1.19.1
+google-resumable-media==0.4.1
 google-pasta==0.1.8
 googleapis-common-protos==1.6.0
 nltk==3.4.5
